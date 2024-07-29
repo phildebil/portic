@@ -11,7 +11,7 @@
 */
 
 /*
-© [2023] Microchip Technology Inc. and its subsidiaries.
+ï¿½ [2023] Microchip Technology Inc. and its subsidiaries.
 
     Subject to your compliance with these terms, you may use Microchip 
     software and any derivatives exclusively with Microchip products. 
@@ -52,7 +52,7 @@ volatile bool AllResultsArrayReady = false;
  * - ADTemp1Soll
  * - ADLight
  * - ADTemp1
- * - ADTemp2
+ * - ADTemp2 etc
  * */
 volatile uint16_t  AllResultsArray[8]={0};
 
